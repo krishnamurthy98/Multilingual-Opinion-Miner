@@ -1,0 +1,7 @@
+__pycache__
+
+.DS_Store
+
+*.h5
+twitter*
+google_dash*
